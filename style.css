@@ -1,0 +1,54 @@
+    #main
+    {
+        margin-left: auto;  /* Căn nội dung web ở giữa màn hình*/
+        margin-right: auto;
+        width: 1000px;
+    }
+    #header{
+        border: 1px solid #CDCDCD;;
+        width: 100%;
+        height: 100px;
+        background-color:#F5F5F5;
+    }
+    #headerlink{
+        border: 1px solid #CDCDCD;;
+        background-color:#F5F5F5;
+        width: 100%;
+        margin-top:5px;
+        height:40px;
+    }
+    #left{
+        border: 1px solid #CDCDCD;
+        float: left;
+        background-color:#004C00;
+        width: 15%;
+        margin-top:5px;
+        height:500px;
+    }
+    #content{
+        border: 1px solid #CDCDCD;
+        float: left;
+        background-color:#F5F5F5;
+        width: 60%;
+        margin-left: 6px;
+        margin-top:5px;
+        height:500px;
+    }
+    #right
+    {
+        border: 1px solid #CDCDCD;
+        float: right;
+        background-color:#F5F5F5;
+        width: 23%;
+        margin-top:5px;
+        height:500px;
+        margin-bottom: 5px;
+    }
+    #footer
+    {
+        border: 1px solid #CDCDCD;
+        width: 100%;
+        height: 60px;
+        background-color:#F8F8FF;
+        clear: both;
+    }
